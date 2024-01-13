@@ -64,4 +64,18 @@
 
 
     }
+
+    @media screen and (min-width:1300px){
+        #hero{
+            height: calc(100vh - 4rem);
+            width: 100vw;
+            max-width: 78rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            overflow: hidden;
+
+    }
+}
     
