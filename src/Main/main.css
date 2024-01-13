@@ -79,4 +79,18 @@
 
     }
 }
+
+@media screen and (max-width:531px){
+    .links{
+        font-size: 12px;
+        justify-content: flex-start;
+        
+    }
+    .images{
+        margin-right: 20px;
+    }
+
+    
+
+}
     

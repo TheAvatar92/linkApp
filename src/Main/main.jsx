@@ -8,7 +8,7 @@ const Main = () => {
   return (
     <main id="hero">
       <h2 className="linkTitle"> 
-        Social Media, Affiliate Links</h2>
+        Social Media & Affiliate Links</h2>
        <a href="https://www.patreon.com/RunningandResearch">
         <div className="links">
           <img src={patreon} alt="" className="images" />
