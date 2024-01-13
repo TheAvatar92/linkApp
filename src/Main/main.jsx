@@ -15,7 +15,7 @@ const Main = () => {
           <p>Patreon - Running Programs</p>
           </div>
           </a>
-          <a href="https://l.instagram.com/?u=https%3A%2F%2Fprf.hn%2Fl%2FDLOeaXw&e=AT0naQy1YCrbDrJt3YCOxpTiv4HyaauzKJrS24uObTaoaCEmsqpP4UvWtcBKoJriQ591f3il2U5bCCT-gb3bGXW3E-QE25haLz_urKY">
+          <a href="https://prf.hn/l/DLOeaXw">
           <div className="links">
           <img src={mp} alt="" className="images" />
           <p>MP Activewear (Discount code: RUNRES)</p>

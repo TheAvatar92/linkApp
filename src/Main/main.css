@@ -47,6 +47,7 @@
     @media screen and (max-width:720px){
         .linkTitle{
             text-align: center;
+            font-size: 1.5rem;
         }
         .links{ 
             margin: 0;
