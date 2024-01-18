@@ -4,6 +4,9 @@ import patreon from '../images/patreon.png'
 import mp from '../images/mp.png'
 import strava from '../images/strava.png'
 import youtube from '../images/youtube.png'
+import cxp from '../images/cxp.png'
+
+
 const Main = () => {
   return (
     <main id="hero">
@@ -14,11 +17,18 @@ const Main = () => {
           <img src={patreon} alt="" className="images" />
           <p>Patreon - Running Programs</p>
           </div>
+           </a>
+           <a href="https://cxpsport.com/">
+          <div className="links">
+          <img src={cxp} alt="" className="images" />
+          <p>CXP Sportswear (Code: RunRes20)</p>
+          </div>
           </a>
+
           <a href="https://prf.hn/l/DLOeaXw">
           <div className="links">
           <img src={mp} alt="" className="images" />
-          <p>MP Activewear (Discount code: RUNRES)</p>
+          <p>MP Activewear (Code: RUNRES)</p>
           </div>
           </a>
           <a href="http://www.youtube.com/@RunAndRes">
