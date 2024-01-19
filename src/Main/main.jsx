@@ -5,6 +5,7 @@ import mp from '../images/mp.png'
 import strava from '../images/strava.png'
 import youtube from '../images/youtube.png'
 import cxp from '../images/cxp.png'
+import fittrack from '../images/fittrack.jpg'
 
 
 const Main = () => {
@@ -22,6 +23,12 @@ const Main = () => {
           <div className="links">
           <img src={cxp} alt="" className="images" />
           <p>CXP Sportswear (Code: RunRes20)</p>
+          </div>
+          </a>
+          <a href="https://uk.fittrack.com/?utm_source=fbigreel&utm_medium=influencer&utm_campaign=RUNRES">
+          <div className="links">
+          <img src={fittrack} alt="" className="images" />
+          <p>FitTrack(Code: RUNRES)</p>
           </div>
           </a>
 
