@@ -28,7 +28,7 @@ const Main = () => {
           <a href="https://uk.fittrack.com/?utm_source=fbigreel&utm_medium=influencer&utm_campaign=RUNRES">
           <div className="links">
           <img src={fittrack} alt="" className="images" />
-          <p>FitTrack(Code: RUNRES)</p>
+          <p>FitTrack (Code: RUNRES)</p>
           </div>
           </a>
 
