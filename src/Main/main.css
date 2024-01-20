@@ -85,4 +85,11 @@
     
 
 }
-    
+@media screen and (max-width:400px){
+    .linkTitle{
+        text-align: center;
+        font-size: 1rem;
+    }
+
+
+}
