@@ -8,6 +8,7 @@
     align-items: center;
     overflow: hidden;
     font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
     
 }
 
@@ -17,20 +18,19 @@
 }
 
 .links{
-        max-width: 30rem;
-        min-width: 20rem;
+        max-width: 70vw;
+        min-width: 50vw;
        background-color: rgb(30 30 30 );
        border-radius: 8px;
-       padding: 0.1rem 3rem;
+       padding: 1rem 3rem;
        margin: 0.5rem;
        display: flex;
        align-items: center;
        justify-content: space-between;
        color: white;
-       max-width: 60vw;
-       min-width: 40vw;
-       min-height: 3rem;
-       font-size: 1rem
+       min-height: 4rem;
+       font-size: 1rem;
+       
 
        
     
@@ -66,24 +66,16 @@
 
     }
 
-    @media screen and (min-width:1300px){
-        #hero{
-            height: calc(100vh - 4rem);
-            width: 100vw;
-            max-width: 78rem;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-around;
-            align-items: center;
-            overflow: hidden;
+   
+            
 
-    }
-}
+    
 
 @media screen and (max-width:531px){
     .links{
         font-size: 12px;
         justify-content: flex-start;
+        padding: 0.5rem;
         
     }
     .images{
